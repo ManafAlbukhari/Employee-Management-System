@@ -1,0 +1,10 @@
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Form1.resources
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\Manaf Al Bukhari\source\Course14V2\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
